@@ -1,0 +1,184 @@
+{
+    "quantities": {
+        "length": {
+            "base-unit": "metre",
+            "units": {
+                "metre": {
+                    "base-factor": "1",
+                    "symbol": "m",
+                    "reference": "https://en.wikipedia.org/wiki/Metre"
+                },
+                "millimeter": {
+                    "base-factor": "0.001",
+                    "symbol": "mm",
+                    "reference": "https://en.wikipedia.org/wiki/Millimetre"
+                },
+                "kilometer": {
+                    "base-factor": "1000",
+                    "symbol": "km",
+                    "reference": "https://en.wikipedia.org/wiki/Kilometre"
+                },
+                "inch": {
+                    "base-factor": "0.0254",
+                    "symbol": "in",
+                    "reference": "https://en.wikipedia.org/wiki/Inch"
+                },
+                "feet": {
+                    "base-factor": "0.3048",
+                    "symbol": "ft",
+                    "reference": "https://en.wikipedia.org/wiki/Foot_(unit)"
+                },
+                "mile": {
+                    "base-factor": "1609.344",
+                    "symbol": "mi",
+                    "reference": "https://en.wikipedia.org/wiki/Mile"
+                },
+                "yard": {
+                    "base-factor": "0.9144",
+                    "symbol": "yd",
+                    "reference": "https://en.wikipedia.org/wiki/Yard"
+                }
+            }
+        },
+        "mass": {
+            "base-unit": "kilogram",
+            "units": {
+                "kilogram": {
+                    "base-factor": 1,
+                    "symbol": "kg",
+                    "reference": "https://en.wikipedia.org/wiki/Kilogram"
+                },
+                "gram": {
+                    "base-factor": "0.001",
+                    "symbol": "g",
+                    "reference": "https://simple.wikipedia.org/wiki/Gram"
+                },
+                "milligram": {
+                    "base-factor": "0.000001",
+                    "symbol": "mg",
+                    "reference": "https://en.wikipedia.org/wiki/Kilogram#SI_multiples"
+                },
+                "pound": {
+                    "base-factor": "0.45359237",
+                    "symbol": "lb",
+                    "reference": "https://en.wikipedia.org/wiki/Pound_(mass)"
+                },
+                "tonne": {
+                    "base-factor": "1000",
+                    "symbol": "t",
+                    "reference": "https://en.wikipedia.org/wiki/Tonne"
+                },
+                "short ton": {
+                    "base-factor": "907.18474",
+                    "symbol": "t (short)",
+                    "reference": "1 short ton is equivalent to 2,000 lbs, https://en.wikipedia.org/wiki/Ton, https://en.wikipedia.org/wiki/Pound_(mass)"
+                },
+                "long ton": {
+                    "base-factor": "1016.0469088",
+                    "symbol": "t (long)",
+                    "reference": "1 long ton is equivalent to 2,240 lbs, https://en.wikipedia.org/wiki/Ton, https://en.wikipedia.org/wiki/Pound_(mass)"
+                },
+                "ounce": {
+                    "base-factor": "0.028349523125",
+                    "symbol": "oz",
+                    "reference": "https://en.wikipedia.org/wiki/Ounce"
+                },
+                "grain": {
+                    "base-factor": "0.00006479891",
+                    "symbol": "gr",
+                    "reference": "https://en.wikipedia.org/wiki/Grain_(unit)"
+                }
+            }
+        },
+        "pressure": {
+            "base-unit": "Pascal",
+            "units": {
+                "Pascal": {
+                    "base-factor": "1",
+                    "symbol": "Pa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "kilopascal": {
+                    "base-factor": "1000",
+                    "symbol": "kPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "pound-force per square inch": {
+                    "base-factor": "0.00689475729316836",
+                    "symbol": "psi",
+                    "reference": "https://en.wikipedia.org/wiki/Pounds_per_square_inch"
+                },
+                "standard atmosphere": {
+                    "base-factor": "101325",
+                    "symbol": "atm",
+                    "reference": "https://en.wikipedia.org/wiki/Standard_atmosphere_(unit)"
+                },
+                "bar": {
+                    "base-factor": "100000",
+                    "symbol": "bar",
+                    "reference": "https://en.wikipedia.org/wiki/Bar_(unit)"
+                },
+                "decapascal": {
+                    "base-factor": "10",
+                    "symbol": "daPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "hectopascal": {
+                    "base-factor": "100",
+                    "symbol": "hPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "megapascal": {
+                    "base-factor": "1000000",
+                    "symbol": "MPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "gigapascal": {
+                    "base-factor": "1000000000",
+                    "symbol": "GPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "therapascal": {
+                    "base-factor": "1000000000000",
+                    "symbol": "TPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "petapascal": {
+                    "base-factor": "1000000000000000",
+                    "symbol": "PPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "exapascal": {
+                    "base-factor": "1000000000000000000",
+                    "symbol": "EPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "zettapascal": {
+                    "base-factor": "1000000000000000000000",
+                    "symbol": "ZPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "iottapascal": {
+                    "base-factor": "1000000000000000000000000",
+                    "symbol": "IPa",
+                    "reference": "https://en.wikipedia.org/wiki/Pascal_(unit)"
+                },
+                "millimetre of water": {
+                    "base-factor": "9.8063754138",
+                    "symbol": "mmH₂O",
+                    "reference": "https://en.wikipedia.org/wiki/Centimetre_or_millimetre_of_water"
+                },
+                "centimetre of water": {
+                    "base-factor": "98.063754138",
+                    "symbol": "cmH₂O",
+                    "reference": "https://en.wikipedia.org/wiki/Centimetre_or_millimetre_of_water"
+                },
+                "metre of water": {
+                    "base-factor": "9806.3754138",
+                    "symbol": "mH₂O",
+                    "reference": "https://en.wikipedia.org/wiki/Centimetre_or_millimetre_of_water"
+                }
+            }
+        }
+    }
+}
